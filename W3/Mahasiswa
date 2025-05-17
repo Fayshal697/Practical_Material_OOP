@@ -1,0 +1,3 @@
+#STUDI KASUS
+#buat kelas "Mahasiswa" yang dapat menerima: Nama, NIM, IPK (jika tidak ada, maka default nya 0)
+

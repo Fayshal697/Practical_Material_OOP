@@ -1,0 +1,9 @@
+class Film:
+    def __init__(self, judul, studio, durasi = 120):
+        self.judul = judul
+        self.studio = studio
+        self.durasi = durasi
+
+film1 = Film("Inside Out 2", "Disney Pixar", 136)
+
+print(f"Saya telah menonton film {film1.judul} dari studio {film1.studio}, dengan durasi waktu {film1.durasi} menit")
