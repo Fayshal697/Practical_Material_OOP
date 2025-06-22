@@ -13,5 +13,6 @@ class Persegi(BangunDatar):
         return self.sisi * self.sisi
 
 # Main
+# Persegi.luas()
 p = Persegi(5)
 print("Luas:", p.luas())

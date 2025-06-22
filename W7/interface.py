@@ -18,3 +18,5 @@ p = Pesawat()
 
 b.terbang()  # Output: Burung terbang di langit
 p.terbang()  # Output: Pesawat lepas landas
+
+#ini adalah tambahan
